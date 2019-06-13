@@ -1,0 +1,3 @@
+C:/Users/jorte/Documents/I semestre 2019/Lenguajes/DonCEyKongServer/cmake-build-debug/CMakeFiles/DonCEyKongServer.dir
+C:/Users/jorte/Documents/I semestre 2019/Lenguajes/DonCEyKongServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jorte/Documents/I semestre 2019/Lenguajes/DonCEyKongServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
