@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DonCEyKong_Ultimo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DonCEyKong_Ultimo">
+				<Option output="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/DonCEyKong_Ultimo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/diego/Desktop/DonCEyKong Ultimo/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 DonCEyKong_Ultimo"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DonCEyKong_Ultimo/fast">
+				<Option output="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/DonCEyKong_Ultimo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/diego/Desktop/DonCEyKong Ultimo/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 DonCEyKong_Ultimo/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/DonCEyKong Ultimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/barril.c">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/barril.h">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/controlDeMovimiento.h">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/escaleras.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/fondo.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/marioDer.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/marioDer1.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/marioIzq.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/marioIzq1.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/pauline.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/img/subeFinal.png">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/main.c">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/player.c">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/player.h">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/screen.h">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/sprites.c">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/sprites.h">
+			<Option target="DonCEyKong_Ultimo"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/DonCEyKong Ultimo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

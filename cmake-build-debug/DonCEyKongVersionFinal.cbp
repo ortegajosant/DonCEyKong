@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DonCEyKongVersionFinal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DonCEyKongVersionFinal">
+				<Option output="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/DonCEyKongVersionFinal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 DonCEyKongVersionFinal"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DonCEyKongVersionFinal/fast">
+				<Option output="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/DonCEyKongVersionFinal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/."/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 DonCEyKongVersionFinal/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Christian/Desktop/DonCEyKongVersionFinal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Barriles/barril.c">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Main/controlDeMovimiento.c">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Main/controlDeMovimiento.h">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Main/main.c">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Main/screen.c">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Main/screen.h">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Player/player.c">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Player/player.h">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Socket_Cliente/Cliente.c">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Socket_Cliente/Cliente.h">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/Sprites/sprites.h">
+			<Option target="DonCEyKongVersionFinal"/>
+		</Unit>
+		<Unit filename="C:/Users/Christian/Desktop/DonCEyKongVersionFinal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
